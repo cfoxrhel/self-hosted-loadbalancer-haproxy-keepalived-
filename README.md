@@ -1,5 +1,6 @@
 # self-hosted-loadbalancer-haproxy-keepalived-
 Deploying a self-hosted loadbalancer (haproxy/keepalived) on k8s/openshift
+requires openshift cluster and root access to the nodes
 
 As a means to bring up a self-hosted Loadbalancer with no dependencies on other open shift services. 
 
